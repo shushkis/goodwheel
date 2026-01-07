@@ -35,7 +35,7 @@ function App() {
             <div className="flex items-center justify-between h-16">
               <Link to="/" className="flex items-center gap-2">
                 <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-primary to-emerald-300"></div>
-                <span className="text-xl font-bold tracking-tight">GoodWheel</span>
+                <span className="text-xl font-bold tracking-tight"><span className="text-primary">Good</span>Wheel.world</span>
               </Link>
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-8">
@@ -63,7 +63,7 @@ function App() {
         {/* Footer */}
         <footer className="bg-black py-12 border-t border-white/10">
           <div className="max-w-7xl mx-auto px-4 text-center">
-            <p className="text-gray-500 mb-4">© 2026 GoodWheel Inc. Driving Safety Forward.</p>
+            <p className="text-gray-500 mb-4">© 2026 GoodWheel.world Inc. Rewarding Better Driving.</p>
             <div className="flex justify-center gap-6 text-sm text-gray-400">
               <Link to="/coming-soon" className="hover:text-white transition-colors">Privacy Policy</Link>
               <Link to="/coming-soon" className="hover:text-white transition-colors">Terms of Service</Link>

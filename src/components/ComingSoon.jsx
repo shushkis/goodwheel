@@ -20,7 +20,7 @@ const ComingSoon = () => {
                 <p className="text-xl text-gray-300 mb-10 leading-relaxed">
                     We are working hard to build the future of fleet safety.
                     <br />
-                    GoodWheel is launching soon. Stay tuned!
+                    GoodWheel.world is launching soon. Stay tuned!
                 </p>
                 <Link
                     to="/"

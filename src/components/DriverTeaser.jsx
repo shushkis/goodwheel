@@ -10,7 +10,7 @@ const DriverTeaser = () => {
                         For Drivers: <span className="text-primary">Focus & Win</span>
                     </h2>
                     <p className="text-gray-300 text-lg leading-relaxed">
-                        GoodWheel isn't just a monitor; it's your co-pilot.
+                        GoodWheel.world isn't just a monitor; it's your co-pilot.
                         Earn points for smooth braking, focused driving, and safe speeds.
                         Climb the leaderboard and unlock real rewards.
                     </p>
@@ -34,7 +34,7 @@ const DriverTeaser = () => {
                     <div className="relative w-64 md:w-80 rounded-[3rem] border-8 border-gray-800 shadow-2xl overflow-hidden bg-black">
                         <img
                             src="/assets/driver_app_mockup_1767469181192.png"
-                            alt="GoodWheel Driver App"
+                            alt="GoodWheel.world Driver App"
                             className="w-full h-full object-cover"
                         />
                     </div>

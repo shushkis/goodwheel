@@ -12,7 +12,7 @@ const ContactPage = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const subject = encodeURIComponent(`GoodWheel Inquiry from ${formData.name} (${formData.role})`);
+        const subject = encodeURIComponent(`GoodWheel.world Inquiry from ${formData.name} (${formData.role})`);
         const body = encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\nRole: ${formData.role}\n\nMessage:\n${formData.message}`);
 
         // Open mail client
